@@ -1,3 +1,4 @@
 # cryptoCurrencies
-to get crypto  prices  
-used api and tableview prototype cell . Made with  mvvm architecture
+to get current crypto  prices  from internet
+used REST API and tableview prototype cell . 
+Made with  mvvm architecture
